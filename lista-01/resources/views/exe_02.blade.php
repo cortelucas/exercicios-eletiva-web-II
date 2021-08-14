@@ -1,4 +1,4 @@
-<form method="POST" action="exe_01_res">
+<form method="POST" action="exe_02_res">
     @csrf
     <label for="valor">informe o valor do quilo: </label>
     <input type="number" id="valor" name="valor" />
