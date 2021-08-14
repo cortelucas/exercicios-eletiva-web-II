@@ -2,6 +2,7 @@
 
 
 namespace App\Http\Controllers;
+
 use Illuminate\Http\Request;
 
 
@@ -12,7 +13,7 @@ class Exercicio1Controller extends Controller
         return view('exe_01');
     }
 
-    public function resultado(Request $request)
+    public function resultado(Request $request): string
     {
         $valor = $request->valor;
         $pagamento = $request->pagamento;
