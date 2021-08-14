@@ -23,12 +23,12 @@
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
           <nav>
-              <ul class="flex items-center justify-center container">
-                  <li class="mr-8"><a class="text-gray-200 hover:text-gray-400" href="exe_01">Exercício 01</a></li>
-                  <li class="mr-8"><a class="text-gray-200 hover:text-gray-400" href="exe_02">Exercício 02</a></li>
-                  <li class="mr-8"><a class="text-gray-200 hover:text-gray-400" href="exe_03">Exercício 03</a></li>
-                  <li class="mr-8"><a class="text-gray-200 hover:text-gray-400" href="exe_04">Exercício 04</a></li>
-                  <li class="mr-8"><a class="text-gray-200 hover:text-gray-400" href="exe_05">Exercício 05</a></li>
+              <ul class="flex container">
+                  <li class="p-8"><a class="text-gray-200 hover:text-gray-400" href="exe_01">Exercício 01_|</a></li>
+                  <li class="p-8"><a class="text-gray-200 hover:text-gray-400" href="exe_02">Exercício 02_|</a></li>
+                  <li class="p-8"><a class="text-gray-200 hover:text-gray-400" href="exe_03">Exercício 03_|</a></li>
+                  <li class="p-8"><a class="text-gray-200 hover:text-gray-400" href="exe_04">Exercício 04_|</a></li>
+                  <li class="p-8"><a class="text-gray-200 hover:text-gray-400" href="exe_05">Exercício 05</a></li>
               </ul>
           </nav>
         </div>
