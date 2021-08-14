@@ -4,6 +4,8 @@ use App\Http\Controllers\Exercicio1Controller;
 use App\Http\Controllers\Exercicio2Controller;
 use App\Http\Controllers\Exercicio3Controller;
 
+use App\Http\Controllers\Exercicio4Controller;
+use App\Http\Controllers\Exercicio5Controller;
 use Illuminate\Support\Facades\Route;
 
 /*
